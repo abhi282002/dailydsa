@@ -5,8 +5,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/abhi282002/dailydsa/tree/master/0724-find-pivot-index) |
+| [3483-unique-3-digit-even-numbers](https://github.com/abhi282002/dailydsa/tree/master/3483-unique-3-digit-even-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/abhi282002/dailydsa/tree/master/0724-find-pivot-index) |
+## Hash Table
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/abhi282002/dailydsa/tree/master/3483-unique-3-digit-even-numbers) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/abhi282002/dailydsa/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/abhi282002/dailydsa/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
