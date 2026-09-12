@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/abhi282002/dailydsa/tree/master/0073-set-matrix-zeroes) |
 | [0724-find-pivot-index](https://github.com/abhi282002/dailydsa/tree/master/0724-find-pivot-index) |
+| [0827-making-a-large-island](https://github.com/abhi282002/dailydsa/tree/master/0827-making-a-large-island) |
 | [3483-unique-3-digit-even-numbers](https://github.com/abhi282002/dailydsa/tree/master/3483-unique-3-digit-even-numbers) |
 ## Prefix Sum
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/abhi282002/dailydsa/tree/master/0073-set-matrix-zeroes) |
+| [0827-making-a-large-island](https://github.com/abhi282002/dailydsa/tree/master/0827-making-a-large-island) |
 ## Linked List
 |  |
 | ------- |
@@ -45,15 +47,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/abhi282002/dailydsa/tree/master/0684-redundant-connection) |
+| [0827-making-a-large-island](https://github.com/abhi282002/dailydsa/tree/master/0827-making-a-large-island) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/abhi282002/dailydsa/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/abhi282002/dailydsa/tree/master/0684-redundant-connection) |
+| [0827-making-a-large-island](https://github.com/abhi282002/dailydsa/tree/master/0827-making-a-large-island) |
 ## Union-Find
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/abhi282002/dailydsa/tree/master/0684-redundant-connection) |
+| [0827-making-a-large-island](https://github.com/abhi282002/dailydsa/tree/master/0827-making-a-large-island) |
 ## Graph Theory
 |  |
 | ------- |
