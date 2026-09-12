@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/abhi282002/dailydsa/tree/master/0073-set-matrix-zeroes) |
 | [0724-find-pivot-index](https://github.com/abhi282002/dailydsa/tree/master/0724-find-pivot-index) |
 | [0827-making-a-large-island](https://github.com/abhi282002/dailydsa/tree/master/0827-making-a-large-island) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/abhi282002/dailydsa/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/abhi282002/dailydsa/tree/master/3483-unique-3-digit-even-numbers) |
 ## Prefix Sum
 |  |
@@ -71,4 +72,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/abhi282002/dailydsa/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Search
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/abhi282002/dailydsa/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/abhi282002/dailydsa/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Sorting
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/abhi282002/dailydsa/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
