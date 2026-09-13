@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/abhi282002/dailydsa/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/abhi282002/dailydsa/tree/master/0073-set-matrix-zeroes) |
 | [0724-find-pivot-index](https://github.com/abhi282002/dailydsa/tree/master/0724-find-pivot-index) |
 | [0827-making-a-large-island](https://github.com/abhi282002/dailydsa/tree/master/0827-making-a-large-island) |
@@ -79,9 +80,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/abhi282002/dailydsa/tree/master/0053-maximum-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/abhi282002/dailydsa/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sorting
 |  |
 | ------- |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/abhi282002/dailydsa/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/abhi282002/dailydsa/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
