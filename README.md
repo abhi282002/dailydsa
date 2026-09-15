@@ -54,12 +54,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/abhi282002/dailydsa/tree/master/0684-redundant-connection) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/abhi282002/dailydsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0827-making-a-large-island](https://github.com/abhi282002/dailydsa/tree/master/0827-making-a-large-island) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/abhi282002/dailydsa/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/abhi282002/dailydsa/tree/master/0684-redundant-connection) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/abhi282002/dailydsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0827-making-a-large-island](https://github.com/abhi282002/dailydsa/tree/master/0827-making-a-large-island) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/abhi282002/dailydsa/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 ## Union-Find
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/abhi282002/dailydsa/tree/master/0684-redundant-connection) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/abhi282002/dailydsa/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Tree
 |  |
 | ------- |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/abhi282002/dailydsa/tree/master/0053-maximum-subarray) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/abhi282002/dailydsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0918-maximum-sum-circular-subarray](https://github.com/abhi282002/dailydsa/tree/master/0918-maximum-sum-circular-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/abhi282002/dailydsa/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sorting
@@ -114,4 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/abhi282002/dailydsa/tree/master/0836-rectangle-overlap) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/abhi282002/dailydsa/tree/master/0787-cheapest-flights-within-k-stops) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/abhi282002/dailydsa/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
