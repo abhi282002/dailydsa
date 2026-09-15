@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/abhi282002/dailydsa/tree/master/0142-linked-list-cycle-ii) |
+| [0647-palindromic-substrings](https://github.com/abhi282002/dailydsa/tree/master/0647-palindromic-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/abhi282002/dailydsa/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/abhi282002/dailydsa/tree/master/0053-maximum-subarray) |
+| [0647-palindromic-substrings](https://github.com/abhi282002/dailydsa/tree/master/0647-palindromic-substrings) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/abhi282002/dailydsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0918-maximum-sum-circular-subarray](https://github.com/abhi282002/dailydsa/tree/master/0918-maximum-sum-circular-subarray) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/abhi282002/dailydsa/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0647-palindromic-substrings](https://github.com/abhi282002/dailydsa/tree/master/0647-palindromic-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/abhi282002/dailydsa/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
 |  |
