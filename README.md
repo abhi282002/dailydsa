@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/abhi282002/dailydsa/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/abhi282002/dailydsa/tree/master/0073-set-matrix-zeroes) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhi282002/dailydsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0724-find-pivot-index](https://github.com/abhi282002/dailydsa/tree/master/0724-find-pivot-index) |
 | [0827-making-a-large-island](https://github.com/abhi282002/dailydsa/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/abhi282002/dailydsa/tree/master/0835-image-overlap) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhi282002/dailydsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/abhi282002/dailydsa/tree/master/0142-linked-list-cycle-ii) |
 | [0647-palindromic-substrings](https://github.com/abhi282002/dailydsa/tree/master/0647-palindromic-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/abhi282002/dailydsa/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
