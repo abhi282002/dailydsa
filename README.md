@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/abhi282002/dailydsa/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/abhi282002/dailydsa/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhi282002/dailydsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/abhi282002/dailydsa/tree/master/0128-longest-consecutive-sequence) |
 | [0724-find-pivot-index](https://github.com/abhi282002/dailydsa/tree/master/0724-find-pivot-index) |
 | [0827-making-a-large-island](https://github.com/abhi282002/dailydsa/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/abhi282002/dailydsa/tree/master/0835-image-overlap) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/abhi282002/dailydsa/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/abhi282002/dailydsa/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/abhi282002/dailydsa/tree/master/0142-linked-list-cycle-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/abhi282002/dailydsa/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/abhi282002/dailydsa/tree/master/0128-longest-consecutive-sequence) |
 | [0684-redundant-connection](https://github.com/abhi282002/dailydsa/tree/master/0684-redundant-connection) |
 | [0827-making-a-large-island](https://github.com/abhi282002/dailydsa/tree/master/0827-making-a-large-island) |
 ## Graph Theory
