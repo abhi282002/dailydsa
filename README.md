@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/abhi282002/dailydsa/tree/master/0647-palindromic-substrings) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/abhi282002/dailydsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0918-maximum-sum-circular-subarray](https://github.com/abhi282002/dailydsa/tree/master/0918-maximum-sum-circular-subarray) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/abhi282002/dailydsa/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/abhi282002/dailydsa/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/abhi282002/dailydsa/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sorting
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0647-palindromic-substrings](https://github.com/abhi282002/dailydsa/tree/master/0647-palindromic-substrings) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/abhi282002/dailydsa/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/abhi282002/dailydsa/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
 |  |
