@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/abhi282002/dailydsa/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/abhi282002/dailydsa/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/abhi282002/dailydsa/tree/master/0684-redundant-connection) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/abhi282002/dailydsa/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -93,12 +94,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/abhi282002/dailydsa/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/abhi282002/dailydsa/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/abhi282002/dailydsa/tree/master/0543-diameter-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/abhi282002/dailydsa/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/abhi282002/dailydsa/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/abhi282002/dailydsa/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/abhi282002/dailydsa/tree/master/0543-diameter-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/abhi282002/dailydsa/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search
@@ -169,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/abhi282002/dailydsa/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/abhi282002/dailydsa/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
