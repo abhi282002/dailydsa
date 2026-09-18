@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/abhi282002/dailydsa/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/abhi282002/dailydsa/tree/master/0142-linked-list-cycle-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/abhi282002/dailydsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/abhi282002/dailydsa/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3483-unique-3-digit-even-numbers](https://github.com/abhi282002/dailydsa/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
 |  |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/abhi282002/dailydsa/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/abhi282002/dailydsa/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
@@ -169,10 +171,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0647-palindromic-substrings](https://github.com/abhi282002/dailydsa/tree/master/0647-palindromic-substrings) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/abhi282002/dailydsa/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/abhi282002/dailydsa/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/abhi282002/dailydsa/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/abhi282002/dailydsa/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1975-maximum-matrix-sum](https://github.com/abhi282002/dailydsa/tree/master/1975-maximum-matrix-sum) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/abhi282002/dailydsa/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## DP on Trees
