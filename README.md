@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/abhi282002/dailydsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0827-making-a-large-island](https://github.com/abhi282002/dailydsa/tree/master/0827-making-a-large-island) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/abhi282002/dailydsa/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3123-find-edges-in-shortest-paths](https://github.com/abhi282002/dailydsa/tree/master/3123-find-edges-in-shortest-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/abhi282002/dailydsa/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/abhi282002/dailydsa/tree/master/0994-rotting-oranges) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/abhi282002/dailydsa/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [3123-find-edges-in-shortest-paths](https://github.com/abhi282002/dailydsa/tree/master/3123-find-edges-in-shortest-paths) |
 ## Union-Find
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/abhi282002/dailydsa/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/abhi282002/dailydsa/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/abhi282002/dailydsa/tree/master/0787-cheapest-flights-within-k-stops) |
+| [3123-find-edges-in-shortest-paths](https://github.com/abhi282002/dailydsa/tree/master/3123-find-edges-in-shortest-paths) |
 ## Tree
 |  |
 | ------- |
@@ -179,10 +182,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/abhi282002/dailydsa/tree/master/0787-cheapest-flights-within-k-stops) |
+| [3123-find-edges-in-shortest-paths](https://github.com/abhi282002/dailydsa/tree/master/3123-find-edges-in-shortest-paths) |
 ## Shortest Path
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/abhi282002/dailydsa/tree/master/0787-cheapest-flights-within-k-stops) |
+| [3123-find-edges-in-shortest-paths](https://github.com/abhi282002/dailydsa/tree/master/3123-find-edges-in-shortest-paths) |
 ## String
 |  |
 | ------- |
