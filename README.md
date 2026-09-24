@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhi282002/dailydsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/abhi282002/dailydsa/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/abhi282002/dailydsa/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/abhi282002/dailydsa/tree/master/0239-sliding-window-maximum) |
 | [0724-find-pivot-index](https://github.com/abhi282002/dailydsa/tree/master/0724-find-pivot-index) |
 | [0827-making-a-large-island](https://github.com/abhi282002/dailydsa/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/abhi282002/dailydsa/tree/master/0835-image-overlap) |
@@ -160,10 +161,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/abhi282002/dailydsa/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/abhi282002/dailydsa/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/abhi282002/dailydsa/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/abhi282002/dailydsa/tree/master/0918-maximum-sum-circular-subarray) |
 ## Math
 |  |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/abhi282002/dailydsa/tree/master/0239-sliding-window-maximum) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/abhi282002/dailydsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3123-find-edges-in-shortest-paths](https://github.com/abhi282002/dailydsa/tree/master/3123-find-edges-in-shortest-paths) |
 ## Shortest Path
@@ -217,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/abhi282002/dailydsa/tree/master/0239-sliding-window-maximum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/abhi282002/dailydsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/abhi282002/dailydsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Graph Coloring
@@ -248,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/abhi282002/dailydsa/tree/master/3525-find-x-value-of-array-ii) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/abhi282002/dailydsa/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
