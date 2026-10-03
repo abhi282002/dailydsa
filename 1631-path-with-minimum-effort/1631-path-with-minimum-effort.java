@@ -40,7 +40,7 @@ class Solution {
                 int new_y = y + col[i];
                 if(!isSafe(new_x,new_y)) continue;
                 int absDiff = Math.abs(heights[x][y] - heights[new_x][new_y]);
-                int maxDiff = Math.max(diff,absDiff);
+                int maxDiff = Math.max(diff,absDiff); //why max because we need to keep maxDiff in the current path so if current abs diff is less then prev in ongoing path then we will not considered the current difference go with previous only
                 if(result[new_x][new_y] > maxDiff){
                     result[new_x][new_y] = maxDiff;
                     pq.offer(new Pair(maxDiff,new_x,new_y));
