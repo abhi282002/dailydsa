@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/abhi282002/dailydsa/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/abhi282002/dailydsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0827-making-a-large-island](https://github.com/abhi282002/dailydsa/tree/master/0827-making-a-large-island) |
+| [1192-critical-connections-in-a-network](https://github.com/abhi282002/dailydsa/tree/master/1192-critical-connections-in-a-network) |
 | [1631-path-with-minimum-effort](https://github.com/abhi282002/dailydsa/tree/master/1631-path-with-minimum-effort) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/abhi282002/dailydsa/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3123-find-edges-in-shortest-paths](https://github.com/abhi282002/dailydsa/tree/master/3123-find-edges-in-shortest-paths) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/abhi282002/dailydsa/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/abhi282002/dailydsa/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/abhi282002/dailydsa/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1192-critical-connections-in-a-network](https://github.com/abhi282002/dailydsa/tree/master/1192-critical-connections-in-a-network) |
 | [3123-find-edges-in-shortest-paths](https://github.com/abhi282002/dailydsa/tree/master/3123-find-edges-in-shortest-paths) |
 ## Tree
 |  |
@@ -315,4 +317,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/abhi282002/dailydsa/tree/master/1631-path-with-minimum-effort) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/abhi282002/dailydsa/tree/master/1192-critical-connections-in-a-network) |
+## Bridge (Graph)
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/abhi282002/dailydsa/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
