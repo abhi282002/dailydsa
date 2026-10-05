@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/abhi282002/dailydsa/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/abhi282002/dailydsa/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/abhi282002/dailydsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1584-min-cost-to-connect-all-points](https://github.com/abhi282002/dailydsa/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/abhi282002/dailydsa/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/abhi282002/dailydsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/abhi282002/dailydsa/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/abhi282002/dailydsa/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/abhi282002/dailydsa/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/abhi282002/dailydsa/tree/master/0827-making-a-large-island) |
+| [1584-min-cost-to-connect-all-points](https://github.com/abhi282002/dailydsa/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/abhi282002/dailydsa/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/abhi282002/dailydsa/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/abhi282002/dailydsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1192-critical-connections-in-a-network](https://github.com/abhi282002/dailydsa/tree/master/1192-critical-connections-in-a-network) |
+| [1584-min-cost-to-connect-all-points](https://github.com/abhi282002/dailydsa/tree/master/1584-min-cost-to-connect-all-points) |
 | [3123-find-edges-in-shortest-paths](https://github.com/abhi282002/dailydsa/tree/master/3123-find-edges-in-shortest-paths) |
 ## Tree
 |  |
@@ -330,4 +333,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/abhi282002/dailydsa/tree/master/1192-critical-connections-in-a-network) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/abhi282002/dailydsa/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/abhi282002/dailydsa/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/abhi282002/dailydsa/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/abhi282002/dailydsa/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
