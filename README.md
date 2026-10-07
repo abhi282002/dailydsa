@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/abhi282002/dailydsa/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0210-course-schedule-ii](https://github.com/abhi282002/dailydsa/tree/master/0210-course-schedule-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/abhi282002/dailydsa/tree/master/0301-remove-invalid-parentheses) |
 | [0310-minimum-height-trees](https://github.com/abhi282002/dailydsa/tree/master/0310-minimum-height-trees) |
 | [0684-redundant-connection](https://github.com/abhi282002/dailydsa/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/abhi282002/dailydsa/tree/master/0785-is-graph-bipartite) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/abhi282002/dailydsa/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/abhi282002/dailydsa/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/abhi282002/dailydsa/tree/master/0032-longest-valid-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/abhi282002/dailydsa/tree/master/0301-remove-invalid-parentheses) |
 | [0647-palindromic-substrings](https://github.com/abhi282002/dailydsa/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/abhi282002/dailydsa/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/abhi282002/dailydsa/tree/master/0856-score-of-parentheses) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/abhi282002/dailydsa/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/abhi282002/dailydsa/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/abhi282002/dailydsa/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
